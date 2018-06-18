@@ -1,6 +1,6 @@
 // colors
 $bg-color: radial-gradient(circle,#cde3f6,#4c86b1);
-$body-color: #fff;
+$logo-color: #fff;
 $eye-color: #ff5522;
 $border-color: #000000;
 
@@ -54,7 +54,7 @@ body{
       left: 6.9vmin;
       width: 5vmin;
       height: 5vmin;
-      background: $body-color;
+      background: $logo-color;
       border: $border-size solid $border-color;
       border-radius: 50%;
     }
@@ -65,7 +65,7 @@ body{
     top: -17vmin;
     width: 33.5vmin;
     height: 21.5vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-radius: 50%;
   }
@@ -75,7 +75,7 @@ body{
     top: -9vmin;
     width: 12vmin;
     height: 6.5vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-top: none;
     border-bottom-left-radius: 50%;
@@ -87,7 +87,7 @@ body{
       left: -2vmin;
       width: 17vmin;
       height: 5vmin;
-      background: $body-color;
+      background: $logo-color;
     }
   }
   .mouth-circle{
@@ -136,7 +136,7 @@ body{
   .ear-abstract{
     width: 7vmin;
     height: 7vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-radius: 50%;
   }
@@ -160,7 +160,7 @@ body{
     z-index: 2;
     width: 16vmin;
     height: 30vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-radius: 50%;
   }
@@ -170,7 +170,7 @@ body{
     z-index: 1;
     width: 24.5vmin;
     height: 17.5vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-radius: 50%;
   }
@@ -180,7 +180,7 @@ body{
     z-index: 1;
     width: 22.5vmin;
     height: 3.2vmin;
-    background: $body-color;
+    background: $logo-color;
     border: $border-size solid $border-color;
     border-top-right-radius: 4.5vmin;
     border-top-left-radius: 4.5vmin;
